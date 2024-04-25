@@ -5,7 +5,10 @@ import {
     TruckIcon,
     ShoppingBagIcon as StorefrontIcon,
     UserIcon,
-    HeartIcon
+    HeartIcon,
+    
+   
+
   } from '@heroicons/react/24/solid';
   
 
@@ -49,7 +52,7 @@ const Navbar = () => {
                     </button>
 
                     <button className="flex items-center px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
-                        <HeartIcon className="w-5 h-5 text-red-500" />
+                        <HeartIcon className="w-5 h-5" />
                     </button>
                 </div>
             </div>
