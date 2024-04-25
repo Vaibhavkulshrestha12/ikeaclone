@@ -15,7 +15,7 @@ const ButtonList = () => {
     return (
         <div className="px-3">
         <div className="flex space-x-4 mt-5">
-            {/* Button 1 */}
+            
             <div className="relative ">
             <button
                     className="py-2 px-4 w-[15vw] text-black bg-slate-200 hover:border-b-2 hover:border-red-600"
@@ -33,7 +33,7 @@ const ButtonList = () => {
                     </div>
                 )}
             </div>
-            {/* Button 2 */}
+            
             <div className="relative">
                 <button
                     className="py-2 px-4 w-[15vw]  text-black bg-slate-200 hover:border-b-2 hover:border-red-600"
@@ -102,7 +102,7 @@ const ButtonList = () => {
                     </div>
                 )}
             </div>
-            {/* Add more buttons similarly */}
+            
         </div>
         </div>
     );

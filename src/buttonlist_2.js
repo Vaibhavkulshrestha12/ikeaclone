@@ -187,7 +187,7 @@ const ButtonList2 = () => {
                </div>
                 )}
             </div>
-            {/* Add more buttons similarly */}
+            
         </div>
         </div>
     );
