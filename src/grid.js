@@ -1,7 +1,7 @@
 import React from 'react';
-import Card2 from './card2'; // Import your Card2 component
+import Card2 from './card2'; 
 
-// Function to render a 4x3 grid of Card2 components
+
 const RenderGrid = () => {
     return (
         <>

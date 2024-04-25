@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer className="bg-gray-200 py-8 px-6">
             <div className="container mx-auto flex flex-wrap">
-                {/* First Column */}
+               
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">Join IKEA Family</h3>
                     <p className="text-sm mb-4">
@@ -18,7 +18,7 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                {/* Second Column */}
+                
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">Join the club</h3>
                     <p className="text-sm mb-4">
@@ -28,7 +28,7 @@ const Footer = () => {
                    
                 </div>
 
-                {/* Third Column */}
+                
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">IKEA Family</h3>
                     <ul className="text-sm space-y-2">
@@ -39,7 +39,7 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                {/* Fourth Column */}
+                
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">Services</h3>
                     <ul className="text-sm space-y-2">
@@ -57,7 +57,7 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                {/* Fifth Column */}
+                
                 <div className="w-full md:w-1/5 mb-6 md:mb-0">
                     <h3 className="text-lg font-semibold mb-2">Help</h3>
                     <ul className="text-sm space-y-2">
